@@ -1,0 +1,10 @@
+body{
+    color:blueviolet;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 25%;
+    border: rgb(117,207,29) ridge 5px;
+}
